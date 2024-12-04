@@ -3,6 +3,7 @@
 Installation requirements:
 
 A knowledge graph is constructed form the movies collected from https://www.themoviedb.org/
+Further details on the graph used in this project can be found here: https://github.com/neo4j-graph-examples/recommendations
 
 ```commandline
 conda create -n aiagent -y python=3.10.0 && conda activate aiagent 
