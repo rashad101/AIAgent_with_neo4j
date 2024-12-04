@@ -1,6 +1,6 @@
 tenacity!=8.4.0
 langchain==0.2.3
-openai==1.33.0
+openai==1.55.3
 langchain-openai==0.1.8
 neo4j-driver==5.21.0
 streamlit==1.35.0

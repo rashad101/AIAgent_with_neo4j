@@ -10,7 +10,7 @@ pip install -r requirements.txt
 Run the agent by executing the following command:
 
 ```shell
-streamlit run chatbot.pyß
+streamlit run chatbot.py
 ```
 
 
