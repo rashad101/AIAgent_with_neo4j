@@ -1,6 +1,7 @@
 # AI Agent with neo4j
 
-Install the requirements:
+Installation requirements:
+
 A knowledge graph is constructed form the movies collected from https://www.themoviedb.org/
 
 ```commandline
@@ -15,7 +16,7 @@ streamlit run chatbot.py
 ```
 
 ### UI
-
+![Chatbot UI](https://github.com/rashad101/AIAgent_with_neo4j/blob/main/aiagent-neo4j.png)
 
 ### Credit:
 - Adapted from neo4j GraphAcademy
