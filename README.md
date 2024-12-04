@@ -1,6 +1,7 @@
 # AI Agent with neo4j
 
 Install the requirements:
+A knowledge graph is constructed form the movies collected from https://www.themoviedb.org/
 
 ```commandline
 conda create -n aiagent -y python=3.10.0 && conda activate aiagent 
@@ -13,8 +14,8 @@ Run the agent by executing the following command:
 streamlit run chatbot.py
 ```
 
+### UI
 
-### References:
 
 ### Credit:
 - Adapted from neo4j GraphAcademy
